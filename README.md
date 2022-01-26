@@ -10,3 +10,10 @@ I decided as a challenge to create an ASCII graphics engine in BASH language to 
 Run on any Linux terminal. 
 
 Who is interested can use my code to continue it. The only requirement of the license is to mention the source and me as the creator :)
+
+How to play?
+
+1.     Download pseudo3dbash.sh
+3.     Open any Linux terminal from computer (tty or pty) or Android phone (Termux) and go to the path where you downloaded the file.
+4.     bash pseudo3dbash.sh
+
