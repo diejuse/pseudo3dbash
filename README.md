@@ -17,3 +17,5 @@ How to play?
 3.     Open any Linux terminal from computer (tty or pty) or Android phone (Termux) and go to the path where you downloaded the file.
 4.     bash pseudo3dbash.sh
 
+![alt text](https://github.com/diejuse/pseudo3dbash/blob/main/pseudo3dbash.jpg)
+
