@@ -1,9 +1,10 @@
+#!/bin/bash
+
 # pseudo3dbash
 # https://github.com/diejuse/pseudo3dbash
 # A prototype of a pseudo 3d-engine made in Bash.
 # MIT License https://github.com/diejuse/pseudo3dbash/blob/main/LICENSE
 
-#!/bin/bash
 function rep { local i; for i in $(seq 1 1 $2);do printf "%s" "$1";done }
 function caja {
     local y x txt="\e[0m\e[107m\e[34m"
